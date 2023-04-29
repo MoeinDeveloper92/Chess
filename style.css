@@ -2,3 +2,18 @@
     box-sizing: border-box;
 }
 
+.output {
+    display: grid;
+    width: 80vw;
+    height: 80vh;
+    margin: auto;
+    border: 1px solid red;
+    padding: 0;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid #ddd;
+}
