@@ -1,0 +1,1 @@
+gameArea is the place holder for the entire game
